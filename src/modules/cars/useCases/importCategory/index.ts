@@ -1,4 +1,4 @@
-import { ImportCategoryController } from "./ImportCategoryUseCase";
+import { ImportCategoryController } from "./ImportCategoryController";
 
 const importCategoryCoroller = new ImportCategoryController();
 
